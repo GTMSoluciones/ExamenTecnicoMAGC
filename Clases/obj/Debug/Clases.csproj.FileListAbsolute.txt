@@ -1,0 +1,5 @@
+D:\Marcos\postulacion\Metrica Andina - Grupo El Comercio\ExamenTecnicoMAGC\Clases\bin\Debug\Clases.dll
+D:\Marcos\postulacion\Metrica Andina - Grupo El Comercio\ExamenTecnicoMAGC\Clases\bin\Debug\Clases.pdb
+D:\Marcos\postulacion\Metrica Andina - Grupo El Comercio\ExamenTecnicoMAGC\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+D:\Marcos\postulacion\Metrica Andina - Grupo El Comercio\ExamenTecnicoMAGC\Clases\obj\Debug\Clases.dll
+D:\Marcos\postulacion\Metrica Andina - Grupo El Comercio\ExamenTecnicoMAGC\Clases\obj\Debug\Clases.pdb
